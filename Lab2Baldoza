@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> Lab 2 DCIT 26 </title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <h1> Honkai Star Rail </h1>
+        <image src="https://upload-os-bbs.hoyolab.com/upload/2024/02/10/17138284/dc5c74f9ce789c9e941ef68479ac7e7c_2682159467724989473.jpg?x-oss-process=image%2Fresize%2Cs_1000%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp%2Fquality%2Cq_70"></image>
+        <a href="https://game8.co/games/Honkai-Star-Rail/archives/409824"> HSR Recommended Team Comps Site</a>
+        <h4>My Own Team Comps</h4>
+        <ul>
+            <li>Dan Heng IL, Sparkle, Silver Wolf, and Dan Heng Permansor</li>
+            <li>THE Herta, Anaxa, Trailblazer Remembrance, and Gallagher</li>
+            <li>Black Swan, Hysilens, Kafka, and Houhou</li>
+        </ul>
+        <h4> My favourite Characters in HSR</h4>
+        <ol>
+            <li>Dan Heng IL</li>
+            <li>Anaxa</li>
+            <li>Firefly</li>
+            <li>Castorice</li>
+            <li>Loucha</li>
+        </ol>
+    </body>
+</html>
